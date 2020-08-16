@@ -1,3 +1,3 @@
 # datasciencecoursera
 My first repository on Github
-##This is amarkdown file
+##This is a markdown file
